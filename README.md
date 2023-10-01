@@ -45,5 +45,3 @@ This is a simple weather dashboard app that displays a 3-day weather forecast fo
 - Improve accessibility with ARIA attributes and semantic HTML
 - Cache API responses to improve performance
 - Add link to source code on GitHub
-
-Let me know if you would like me to expand or modify the README.md file in any way!
